@@ -1,3 +1,4 @@
+#cycle 1
 
 X 100 GT -1
 Y 0 GT -1
@@ -8,6 +9,8 @@ Rb 0 GT -1
 Gb 0 GT -1
 Bb 0 GT -1
 
+#cycle2
+
 X 5 GT -1
 Y 0 GT -1
 Ra 33 GT -1
@@ -16,6 +19,8 @@ Ba 9 GT -1
 Rb 2 GT -1
 Gb 0 GT -1
 Bb 1 GT -1
+
+#cycle3
 
 X 500 GT -1
 Y 0 GT -1
@@ -26,6 +31,8 @@ Rb 15 GT -1
 Gb 4 GT -1
 Bb 1 GT -1
 
+#cycle4
+
 X 20 GT -1
 Y 0 GT -1
 Ra 178 GT -1
@@ -34,6 +41,8 @@ Ba 49 GT -1
 Rb 34 GT -1
 Gb 14 GT -1
 Bb 4 GT -1
+
+#cycle5
 
 X 250 GT -1
 Y 0 GT -1
